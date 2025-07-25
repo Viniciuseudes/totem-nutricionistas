@@ -77,7 +77,7 @@ export function WelcomeScreen({ onStart }: WelcomeScreenProps) {
           }}
           transition={{ duration: 0.5 }}
         >
-          Ei Nutri, seja você um{" "}
+          Ei Dr.<sup>(a)</sup>, seja você um{" "}
           <span className="bg-gradient-to-r from-green-500 to-teal-500 bg-clip-text text-transparent">
             especialista Fusion
           </span>
